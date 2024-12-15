@@ -100,8 +100,6 @@ section {
     color: #fff;
   }
 
-
-  /* Efeito do botão */
 .bounce {
     animation: bounceAnimation 0.4s ease infinite;
   }
