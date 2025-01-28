@@ -8,9 +8,8 @@ O desafio proposto como parte da certificação da **trilha de CSS** consistia e
 
 ## Adições.
 
-🪄 **Efeito bounce no botão de __Call to Action (CTA)__:** Um efeito de "*bounce*" foi adicionado ao botão para atrair a atenção do usuário, através de animação estilizada com **CSS**, além de uma mudança de cor ao passar o cursor sobre o botão (efeito "*hover*") criando um feedback visual interativo.
+🪄 **Animação de Bounce no CTA:** Botão de Call to Action com animação de *"bounce"* para atrair a atenção do usuário, combinada com efeito *"hover"* para mudança de cor, criando um feedback visual interativo.
 
-🔍 **Efeito de ampliação nos módulos:** Ao aproximar o cursor de cada módulo, ele é levemente ampliado (efeito "*hover*"), destacando os tópicos de cada etapa da trilha como uma "*lupa*" e ajudando a focar a atenção do usuário nas informações, gerando a curiosidade e interesse no conteúdo. 
-
+🔍 **Efeito de Zoom nos Módulos:** Módulos ganham leve ampliação (*zoom*) ao passar o cursor, destacando o conteúdo de cada etapa. Um estímulo cognitivo para formentar o *interesse do usuário*, como o efeito de uma lupa.
 
 Obrigada! 💛
